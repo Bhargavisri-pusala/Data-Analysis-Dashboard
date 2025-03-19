@@ -4,6 +4,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 ##Dataset used
 -<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Dataset-1.xlsx">Dataset</a>
+
 ##Questions (KPIs)
 
 #General Sales Performance:
@@ -51,6 +52,9 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 -Which business segment had the highest growth?
 
 -What is the trend of sales distribution among different sales channels?
+
+Dashboard Interaction-<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Data_Dashboard%20-%20ammu.xlsx">Dashboard</a>
+
 
 
  
