@@ -6,7 +6,8 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 -<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Dataset-1.xlsx">Dataset</a>
 ##Questions (KPIs)
 
-General Sales Performance:
+#General Sales Performance:
+
 -What is the total sales revenue?
 
 -What is the total profit generated?
@@ -17,7 +18,8 @@ General Sales Performance:
 
 -What is the top-selling product and its sales value? 
 
-Yearly & Monthly Analysis:
+#Yearly & Monthly Analysis:
+
 -What is the sum of sales for each year?
 
 -How does sales performance compare between 2021 and 2022?
@@ -28,7 +30,8 @@ Yearly & Monthly Analysis:
 
 -Which months saw a decline in profit?
 
-Customer & Country Analysis:
+#Customer & Country Analysis:
+
 -Which customer generated the highest revenue?
 
 -How does sales distribution look by country?
@@ -37,7 +40,8 @@ Customer & Country Analysis:
 
 -What is the percentage of sales contribution by different countries?
 
-Product & Segment Analysis:
+#Product & Segment Analysis:
+
 -What is the sales percentage split among different products?
 
 -Which product performed the best in terms of sales revenue?
