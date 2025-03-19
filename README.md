@@ -67,7 +67,7 @@ Dashboard Interaction-<a href="https://github.com/Bhargavisri-pusala/Data-Analys
 
 ##Dashboard
 
--<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Dashboard-P.png">Dataset</a>
+-<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Dashboard-P.png">Dashboardimg</a>
 
 
 
