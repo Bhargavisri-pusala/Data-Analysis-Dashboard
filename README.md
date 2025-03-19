@@ -65,6 +65,11 @@ Dashboard Interaction-<a href="https://github.com/Bhargavisri-pusala/Data-Analys
 
 -Merge all pivot tables in to one dashboard and apply slicer to make dynamic
 
+##Dashboard
+
+-<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Dashboard-P.png">Dataset</a>
+
+
 
 
 
