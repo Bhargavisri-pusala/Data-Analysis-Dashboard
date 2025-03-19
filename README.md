@@ -2,12 +2,12 @@
 ## Project Objective
 The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bicycle store can understand their customers and grow sales in 2021 &2022.
 
-##Dataset used
+## Dataset used
 -<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Dataset-1.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 
-## General Sales Performance:
+# General Sales Performance:
 
 -What is the total sales revenue?
 
