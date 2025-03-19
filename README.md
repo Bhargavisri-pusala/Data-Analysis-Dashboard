@@ -7,7 +7,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 ## Questions (KPIs)
 
-# General Sales Performance:
+## General Sales Performance:
 
 -What is the total sales revenue?
 
@@ -19,7 +19,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -What is the top-selling product and its sales value? 
 
-# Yearly & Monthly Analysis:
+## Yearly & Monthly Analysis:
 
 -What is the sum of sales for each year?
 
@@ -31,7 +31,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -Which months saw a decline in profit?
 
-# Customer & Country Analysis:
+## Customer & Country Analysis:
 
 -Which customer generated the highest revenue?
 
@@ -41,7 +41,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -What is the percentage of sales contribution by different countries?
 
-# Product & Segment Analysis:
+## Product & Segment Analysis:
 
 -What is the sales percentage split among different products?
 
@@ -53,7 +53,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -What is the trend of sales distribution among different sales channels?
 
-Dashboard Interaction-<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Data_Dashboard%20-%20ammu.xlsx">Dashboard</a>
+## Dashboard Interaction-<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Data_Dashboard%20-%20ammu.xlsx">Dashboard</a>
 
 ## Process
 
