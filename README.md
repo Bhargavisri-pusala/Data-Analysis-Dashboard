@@ -68,7 +68,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 ##Dashboard
 
-"https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Dashboard-P.png">Dashboardimg
+"https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Dashboard-P.png">Dashboardimg"
 
 ## Project Insight
 
