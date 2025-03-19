@@ -53,8 +53,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -What is the trend of sales distribution among different sales channels?
 
- ## Dashboard Interaction
- -<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Data_Dashboard%20-%20ammu.xlsx">Dashboard</a>
+-Dashboard Interaction -<a href="https://github.com/Bhargavisri-pusala/Data-Analysis-Dashboard/blob/main/Sales%20Data_Dashboard%20-%20ammu.xlsx">Dashboard</a>
 
 ## Process
 
@@ -66,7 +65,7 @@ The Bicycle Store wants to create a sales report 2022.Sothat,the owner of the Bi
 
 -Merge all pivot tables in to one dashboard and apply slicer to make dynamic
 
-##Dashboard
+## Dashboard
 
 ![Screenshot (18)](https://github.com/user-attachments/assets/7e8d162c-d277-48ec-8294-6d2708b97509)
 
